@@ -1,16 +1,70 @@
-## Hi there 👋
+# 👋 Hi, I'm Ubaid Khokhar
 
-<!--
-**mrubaidx/mrubaidx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Web Developer
 
-Here are some ideas to get you started:
+I am a passionate Full Stack Developer with experience in building modern, responsive, and scalable web applications. I enjoy creating clean user interfaces and powerful backend systems using the latest web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills
+
+### Frontend
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React.js
+- Tailwind CSS
+- Bootstrap
+
+### Backend
+
+- Node.js
+- Express.js
+- PHP
+- MySQL
+- MongoDB
+- REST API
+
+---
+
+## 🛠 Tools
+
+- Git
+- GitHub
+- VS Code
+- Postman
+- Figma
+
+---
+
+## 📂 Projects
+
+### Portfolio Website
+
+Modern React Portfolio
+
+### E-Commerce Website
+
+Complete shopping website with authentication and admin panel.
+
+### Dashboard
+
+Responsive Admin Dashboard with charts and analytics.
+
+---
+
+## 📫 Connect With Me
+
+GitHub:
+https://github.com/mrubaidx
+
+Instagram:
+https://instagram.com/ubaideyy_
+
+Facebook:
+https://facebook.com/MistrrUbaid
+
+---
+
+⭐ Don't forget to star my repositories if you like my work.
