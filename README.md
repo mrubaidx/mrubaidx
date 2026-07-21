@@ -59,10 +59,9 @@ Responsive Admin Dashboard with charts and analytics.
 GitHub:
 https://github.com/mrubaidx
 
-Instagram:
-https://www.instagram.com/ubaideyy_?igsh=NGJnenluMDJwZDZt&utm_source=qr
-Facebook:
-https://facebook.com/MistrrUbaid
+Instagram:https://www.instagram.com/ubaideyy_?igsh=NGJnenluMDJwZDZt&utm_source=qr
+
+Facebook:https://facebook.com/MistrrUbaid
 
 ---
 
