@@ -60,8 +60,7 @@ GitHub:
 https://github.com/mrubaidx
 
 Instagram:
-https://www.instagram.com/ubaideyy_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
-
+https://www.instagram.com/ubaideyy_?igsh=NGJnenluMDJwZDZt&utm_source=qr
 Facebook:
 https://facebook.com/MistrrUbaid
 
