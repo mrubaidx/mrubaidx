@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ubaid Khokhar
+# 👋 Hi, I'm Ubaid 
 
 ### Full Stack Web Developer
 
